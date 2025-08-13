@@ -18,5 +18,9 @@ class CaesarCipherTest {
 		assertEquals("", caesarCipher.cipher("", 12));
 	}
 	
+	@Test
+	void testCipheredMessageWithOffset11() {
+		assertEquals("Zai SdW kag Va[`Y faVSk" , caesarCipher.cipher("how are you doing today", 11));
+	}
 
 }
