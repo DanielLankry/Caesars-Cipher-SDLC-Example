@@ -18,6 +18,5 @@ class CaesarCipherTest {
 		assertEquals("", caesarCipher.cipher("", 12));
 	}
 	
-	//Comment
 
 }
