@@ -6,9 +6,9 @@
 
 <em>A comprehensive demonstration of the Software Development Life Cycle using Caesar cipher encryption in Java.</em>
 
-<img src="https://img.shields.io/github/last-commit/DanielLankry/Caesar_cipher_SLDC?style=flat&logo=git&logoColor=white&color=0080ff" alt="last-commit">
-<img src="https://img.shields.io/github/languages/top/DanielLankry/Caesar_cipher_SLDC?style=flat&color=0080ff" alt="repo-top-language">
-<img src="https://img.shields.io/github/languages/count/DanielLankry/Caesar_cipher_SLDC?style=flat&color=0080ff" alt="repo-language-count">
+<img src="https://img.shields.io/github/last-commit/DanielLankry/Caesar-cipher-SLDC?style=flat&logo=git&logoColor=white&color=0080ff" alt="last-commit">
+<img src="https://img.shields.io/github/languages/top/DanielLankry/Caesar-cipher-SLDC?style=flat&color=0080ff" alt="repo-top-language">
+<img src="https://img.shields.io/github/languages/count/DanielLankry/Caesar-cipher-SLDC?style=flat&color=0080ff" alt="repo-language-count">
 <img src="https://circleci.com/gh/DanielLankry/Caesar_cipher_SLDC.svg?style=svg" alt="CircleCI">
 
 </div>
@@ -18,25 +18,6 @@
   <img src="https://user-images.githubusercontent.com/yourusername/caesar-cipher-demo.gif" alt="Caesar Cipher Demo" width="600">
 </div>
 <br>
-
----
-
-## 📄 Table of Contents
-
-- [Overview](#-overview)
-- [Features](#-features)
-- [Getting Started](#-getting-started)
-  - [Prerequisites](#-prerequisites)
-  - [Installation](#-installation)
-  - [Usage](#-usage)
-  - [Running Tests](#-running-tests)
-- [Caesar Cipher Algorithm](#-caesar-cipher-algorithm)
-- [Testing](#-testing)
-- [CI/CD Pipeline](#-cicd-pipeline)
-- [Project Structure](#-project-structure)
-- [Contributing](#-contributing)
-- [License](#-license)
-- [Contact](#-contact)
 
 ---
 
