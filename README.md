@@ -332,6 +332,9 @@ workflows:
 * ⚡ **Fast Feedback**: Quick build and test cycle (typically < 2 minutes)
 * 📊 **Build Status**: Visual feedback through README badges
 
+  <img width="1575" height="527" alt="image" src="https://github.com/user-attachments/assets/e7a0cee6-d263-4237-afe2-53137df8b632" />
+
+
 ### Monitoring Build Status
 
 - **Build Status**: [![CircleCI](https://circleci.com/gh/lankdaniel14/Caesar_cipher_SLDC.svg?style=svg)](https://circleci.com/gh/lankdaniel14/Caesar_cipher_SLDC)
@@ -473,12 +476,6 @@ This project is specifically designed for educational purposes. Feel free to:
 
 ---
 
-## 📞 Contact
-
-**Project Maintainer** - [Your Name](https://github.com/lankdaniel14)
-
-**Project Link**: [https://github.com/lankdaniel14/Caesar_cipher_SLDC](https://github.com/lankdaniel14/Caesar_cipher_SLDC)
-
 ### Educational Resources
 
 - 📺 **Video Tutorial**: [Complete SDLC Walkthrough](https://youtu.be/9PgZCJNzY9M) - Step-by-step guide building this project
@@ -564,10 +561,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 🙏 Acknowledgments
 
-* [Awesome Library](https://github.com/awesome/library) - For providing the core functionality
-* [Helpful Person](https://github.com/helpful-person) - For contributing to the algorithm
-* [Inspiration Project](https://github.com/inspiration/project) - For the original idea
-* [Community](https://community-link.com) - For ongoing support and feedback
+* [Youtube Vudeo tutorial](https://www.youtube.com/watch?v=9PgZCJNzY9M&t=315s) - For providing the core functionality
+
 
 ---
 
