@@ -9,7 +9,6 @@
 <img src="https://img.shields.io/github/last-commit/DanielLankry/Caesar-cipher-SLDC?style=flat&logo=git&logoColor=white&color=0080ff" alt="last-commit">
 <img src="https://img.shields.io/github/languages/top/DanielLankry/Caesar-cipher-SLDC?style=flat&color=0080ff" alt="repo-top-language">
 <img src="https://img.shields.io/github/languages/count/DanielLankry/Caesar-cipher-SLDC?style=flat&color=0080ff" alt="repo-language-count">
-<img src="https://circleci.com/gh/DanielLankry/Caesar_cipher_SLDC.svg?style=svg" alt="CircleCI">
 
 </div>
 <br>
