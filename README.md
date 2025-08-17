@@ -6,10 +6,10 @@
 
 <em>A comprehensive demonstration of the Software Development Life Cycle using Caesar cipher encryption in Java.</em>
 
-<img src="https://img.shields.io/github/last-commit/lankdaniel14/Caesar_cipher_SLDC?style=flat&logo=git&logoColor=white&color=0080ff" alt="last-commit">
-<img src="https://img.shields.io/github/languages/top/lankdaniel14/Caesar_cipher_SLDC?style=flat&color=0080ff" alt="repo-top-language">
-<img src="https://img.shields.io/github/languages/count/lankdaniel14/Caesar_cipher_SLDC?style=flat&color=0080ff" alt="repo-language-count">
-<img src="https://circleci.com/gh/lankdaniel14/Caesar_cipher_SLDC.svg?style=svg" alt="CircleCI">
+<img src="https://img.shields.io/github/last-commit/DanielLankry/Caesar_cipher_SLDC?style=flat&logo=git&logoColor=white&color=0080ff" alt="last-commit">
+<img src="https://img.shields.io/github/languages/top/DanielLankry/Caesar_cipher_SLDC?style=flat&color=0080ff" alt="repo-top-language">
+<img src="https://img.shields.io/github/languages/count/DanielLankry/Caesar_cipher_SLDC?style=flat&color=0080ff" alt="repo-language-count">
+<img src="https://circleci.com/gh/DanielLankry/Caesar_cipher_SLDC.svg?style=svg" alt="CircleCI">
 
 </div>
 <br>
